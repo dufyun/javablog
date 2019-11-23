@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://dufyun.gitee.io/images_bed/images/2019/java_qrcode.jpg  =283x276)
+![](https://i.loli.net/2019/11/23/uRZ65lMBENTnvzm.png)
